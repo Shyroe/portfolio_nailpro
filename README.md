@@ -31,37 +31,8 @@ A implementação foi conduzida como um problema real de engenharia frontend, co
 - **Carregamento responsivo de imagens**: o Hero utiliza elemento `<picture>` com seleção explícita de AVIF/WebP por media query de viewport, além de preloads seletivos de poster e banner direcionados à região crítica do LCP;
 - **Fachada de vídeo acessível**: o vídeo do Hero e os depoimentos utilizam capas e componentes locais interativos que dispensam embeds de `iframe` de terceiros no carregamento inicial, eliminando bloqueio de thread principal e requisições externas desnecessárias;
 - **Zero bibliotecas pesadas de animação**: transições e reveals controlados puramente por CSS nativo e `IntersectionObserver`, respeitando rigorosamente a preferência do usuário por `prefers-reduced-motion`;
-- **Nenhum domínio de terceiro no carregamento**: garantido por contrato e verificado em testes automatizados.
-
-### Resultados PageSpeed Insights (5 runs oficiais independentes)
-
-Medição conduzida no Google PageSpeed Insights oficial sobre o artefato final publicado no domínio de produção (`nailpro.leonardocamargo.dev.br`):
-
-#### Mobile (Moto G Power emulado / 4G lento)
-*Garantia de integridade: `cacheSafe: true` (5 relatórios e timestamps únicos).*
-
-| Run | Desempenho | LCP | FCP | TBT | CLS | Speed Index | Relatório Oficial |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1** | **92** | 2,9s | 1,7s | 10ms | 0 | 4,5s | [Relatório 1](https://pagespeed.web.dev/analysis/https-nailpro-leonardocamargo-dev-br/o4vx1f4f9m?form_factor=mobile) |
-| **2** | **91** | 2,9s | 1,7s | 40ms | 0 | 4,7s | [Relatório 2](https://pagespeed.web.dev/analysis/https-nailpro-leonardocamargo-dev-br/wc1pbmffk5?form_factor=mobile) |
-| **3** | **94** | 2,9s | 1,7s | 40ms | 0 | 2,8s | [Relatório 3](https://pagespeed.web.dev/analysis/https-nailpro-leonardocamargo-dev-br/4g2d9d7jxo?form_factor=mobile) |
-| **4** | **96** | 2,6s | 1,7s | 0ms | 0 | 1,7s | [Relatório 4](https://pagespeed.web.dev/analysis/https-nailpro-leonardocamargo-dev-br/beq25o3o58?form_factor=mobile) |
-| **5** | **92** | 2,9s | 1,7s | 30ms | 0 | 4,5s | [Relatório 5](https://pagespeed.web.dev/analysis/https-nailpro-leonardocamargo-dev-br/8kxooqa1yl?form_factor=mobile) |
-
-- **Mediana Mobile:** **92** de desempenho (min 91, max 96) | LCP **2,9s** | FCP **1,7s** | TBT **30ms** | CLS **0** | A11y **97** | Melhores Práticas **100** | SEO **100**
-
-#### Desktop (Área de trabalho emulada)
-*Garantia de integridade: `cacheSafe: true` (5 relatórios e timestamps únicos).*
-
-| Run | Desempenho | LCP | FCP | TBT | CLS | Speed Index | Relatório Oficial |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1** | **100** | 0,7s | 0,5s | 40ms | 0 | 0,5s | [Relatório 1](https://pagespeed.web.dev/analysis/https-nailpro-leonardocamargo-dev-br/o4vx1f4f9m?form_factor=desktop) |
-| **2** | **99** | 0,6s | 0,5s | 0ms | 0 | 1,0s | [Relatório 2](https://pagespeed.web.dev/analysis/https-nailpro-leonardocamargo-dev-br/wc1pbmffk5?form_factor=desktop) |
-| **3** | **100** | 0,6s | 0,4s | 0ms | 0 | 0,7s | [Relatório 3](https://pagespeed.web.dev/analysis/https-nailpro-leonardocamargo-dev-br/4g2d9d7jxo?form_factor=desktop) |
-| **4** | **100** | 0,7s | 0,5s | 30ms | 0 | 0,5s | [Relatório 4](https://pagespeed.web.dev/analysis/https-nailpro-leonardocamargo-dev-br/beq25o3o58?form_factor=desktop) |
-| **5** | **100** | 0,6s | 0,5s | 10ms | 0 | 0,6s | [Relatório 5](https://pagespeed.web.dev/analysis/https-nailpro-leonardocamargo-dev-br/8kxooqa1yl?form_factor=desktop) |
-
-- **Mediana Desktop:** **100** de desempenho (min 99, max 100) | LCP **0,6s** | FCP **0,5s** | TBT **10ms** | CLS **0** | A11y **100** | Melhores Práticas **100** | SEO **100**
+- **Nenhum domínio de terceiro no carregamento**: garantido por contrato e verificado em testes automatizados;
+- **medido no PageSpeed Insights oficial** (5 execuções espaçadas por form factor, no artefato publicado): **desktop 100** de mediana (notas 99–100, LCP 0,6s, CLS 0) e **mobile 92** de mediana (notas 91–96, LCP 2,9s, CLS 0, TBT 30ms). O LCP observado sem throttling é de ~300ms; o valor publicado pelo PSI reflete a simulação restrita sob CPU 4x e 4G lento.
 
 ### Acessibilidade
 
