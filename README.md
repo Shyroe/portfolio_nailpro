@@ -1,5 +1,7 @@
 # Nail Pro — Landing Page
 
+![Nail Pro — Preview](.github/assets/cover.webp)
+
 Desafio técnico frontend voltado ao desenvolvimento de uma landing page production-grade, com foco em **fidelidade visual, responsividade contínua, acessibilidade, performance e engenharia de frontend**.
 
 O projeto combina um acabamento visual de alto padrão com uma arquitetura moderna em **Next.js 16 (App Router)** entregue como **export estático** no Cloudflare Workers: sem servidor de aplicação, sem otimizador de imagens em runtime e **zero requisições a domínios de terceiros no carregamento inicial**.
