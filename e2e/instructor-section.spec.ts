@@ -354,7 +354,7 @@ test("ships the derived instructor portrait with a usable alpha mask", async ({
       mask: {
         bottomLeft: alphaAt(0, height - 1),
         bottomRight: alphaAt(width - 1, height - 1),
-        lowerCenter: alphaAt(600, 1500),
+        center: alphaAt(600, 1100),
       },
     };
   });
@@ -362,7 +362,7 @@ test("ships the derived instructor portrait with a usable alpha mask", async ({
   expect(alphaPixels.opaque).toBeGreaterThan(1000);
   expect(alphaPixels.mask.bottomLeft).toBeLessThan(10);
   expect(alphaPixels.mask.bottomRight).toBeLessThan(10);
-  expect(alphaPixels.mask.lowerCenter).toBeGreaterThan(240);
+  expect(alphaPixels.mask.center).toBeGreaterThan(240);
 });
 
 test("keeps the signature clear of the biography across the mobile range", async ({

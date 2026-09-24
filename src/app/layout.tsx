@@ -20,9 +20,15 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   icons: {
-    // 1.5 KB instead of the 19 KB logo PNG: the favicon is fetched on every
-    // visit and PageSpeed counts it against the LCP window.
-    icon: "/media/nailpro/derived/brand-icon.png",
+    icon: [
+      { url: "/favicon.ico", sizes: "32x32" },
+      {
+        url: "/media/nailpro/derived/brand-icon.png",
+        type: "image/png",
+        sizes: "64x64",
+      },
+    ],
+    apple: "/apple-icon.png",
   },
   openGraph: {
     type: "website",

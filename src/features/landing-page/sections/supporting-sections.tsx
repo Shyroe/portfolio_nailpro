@@ -326,7 +326,7 @@ export function InstructorSection() {
           <Image
             fetchPriority="low"
             alt="Professora do curso Nail Art"
-            className="mx-auto aspect-[1200/1678] h-auto w-full max-w-[600px] origin-bottom-right -translate-x-[5px] scale-x-[1.04] object-contain md:translate-x-0 md:scale-y-[1.06]"
+            className="mx-auto aspect-[1200/1678] h-auto w-full max-w-[600px] object-contain [mask-image:linear-gradient(to_bottom,black_65%,transparent_98%),linear-gradient(to_right,black_85%,transparent_100%)] [mask-composite:intersect] [-webkit-mask-image:linear-gradient(to_bottom,black_65%,transparent_98%),linear-gradient(to_right,black_85%,transparent_100%)] [-webkit-mask-composite:source-in]"
             height={1678}
             sizes="(max-width: 767px) 100vw, 600px"
             src={landingContent.instructor.portrait}
