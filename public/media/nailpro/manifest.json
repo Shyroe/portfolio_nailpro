@@ -1,0 +1,1114 @@
+{
+  "generatedAt": "2026-09-24T05:17:02.455Z",
+  "assets": [
+    {
+      "path": "public/media/nailpro/hero-banner.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/BANNER-final.png",
+      "purpose": "hero background and portrait",
+      "contentType": "image/png",
+      "sha256": "6018867446eef800cb56b6e7efa410c8e8b900c065ee72d7e1615a4188609a5f",
+      "dimensions": {
+        "width": 1920,
+        "height": 788
+      }
+    },
+    {
+      "path": "public/media/nailpro/hero-banner-mobile.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/banner1-mobile.png",
+      "purpose": "mobile hero background and torn-paper transition",
+      "contentType": "image/png",
+      "sha256": "8bea6e6a0c3b12fc21b01f62a9c07606ff1fe5c65d9aee0a19d8697fc6868bc6",
+      "dimensions": {
+        "width": 1080,
+        "height": 2011
+      }
+    },
+    {
+      "path": "public/media/nailpro/hero-video.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/video.png",
+      "purpose": "hero and testimonial poster",
+      "contentType": "image/png",
+      "sha256": "8769f91a2bfb946123000f1d3b7126c96c1fc8dab9843e7093f55881bdc60feb",
+      "dimensions": {
+        "width": 1024,
+        "height": 576
+      }
+    },
+    {
+      "path": "public/media/nailpro/marble.jpg",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/marmore.jpg",
+      "purpose": "light marble background",
+      "contentType": "image/jpeg",
+      "sha256": "8ca3487178b3c291cac328e266507ecf312f6eaf9c790a515a4ab8ec577c494f",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/marble-mobile.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/marmore-mobile.png",
+      "purpose": "mobile light marble background",
+      "contentType": "image/png",
+      "sha256": "452fb6215fb231deb2cbebf373fb818457e5d73ae840abc463dea7a5a857a590",
+      "dimensions": {
+        "width": 1080,
+        "height": 2000
+      }
+    },
+    {
+      "path": "public/media/nailpro/marble-secondary.jpg",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/marmore-1.jpg",
+      "purpose": "secondary marble background",
+      "contentType": "image/jpeg",
+      "sha256": "8ca3487178b3c291cac328e266507ecf312f6eaf9c790a515a4ab8ec577c494f",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/payment-methods.webp",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/metodos-200-1.png.webp",
+      "purpose": "payment methods",
+      "contentType": "image/webp",
+      "sha256": "f2e025213aa35cf60336180fd46ca894bb352d73a255eab03bc5eee4e4576f24",
+      "dimensions": {
+        "width": 400,
+        "height": 36
+      }
+    },
+    {
+      "path": "public/media/nailpro/technique-glitter.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/CLITER.png",
+      "purpose": "technique card",
+      "contentType": "image/png",
+      "sha256": "9021309248102d1629845d088d4dec7bf6db194c75d6fdc3754d4f4700d3091c",
+      "dimensions": {
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "path": "public/media/nailpro/technique-fitilho.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/FITILHO.png",
+      "purpose": "technique card",
+      "contentType": "image/png",
+      "sha256": "90c05658694e018153c839f1085097a76495268c87cf81afb1fb7e667742bef3",
+      "dimensions": {
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "path": "public/media/nailpro/technique-babyboomer.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/ABYBOOMER.png",
+      "purpose": "technique card",
+      "contentType": "image/png",
+      "sha256": "33cc2e6ad193162a30e12c480920dd02a52489c64a16b5a74c0dc6024cb92e92",
+      "dimensions": {
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "path": "public/media/nailpro/technique-crystal.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/EST.png",
+      "purpose": "technique card",
+      "contentType": "image/png",
+      "sha256": "631fe2323b4657cb984797a9ea0ef0f17472ccc0873c4d900b1ac6c2b1bce21d",
+      "dimensions": {
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "path": "public/media/nailpro/technique-fibra.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/FIBRA.png",
+      "purpose": "technique card",
+      "contentType": "image/png",
+      "sha256": "3ae99f968a145e1c50fa98e3c6e8e4b864eb3df3ef1901065e1c749726a0ce11",
+      "dimensions": {
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "path": "public/media/nailpro/technique-tip.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/GEL-NA-TIP.png",
+      "purpose": "technique card",
+      "contentType": "image/png",
+      "sha256": "b0a65de298122591466d3da4324b6544ba9b6685f97b8f86cb2e959a7c03a2cf",
+      "dimensions": {
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "path": "public/media/nailpro/technique-moldado.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/GEL-MOLHADO.png",
+      "purpose": "technique card",
+      "contentType": "image/png",
+      "sha256": "0e8af68a19cd0b0f737d637f8c479651953a3d2cef851b42a8a5ae6572c08a44",
+      "dimensions": {
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "path": "public/media/nailpro/technique-decoracao.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/DEC.png",
+      "purpose": "technique card",
+      "contentType": "image/png",
+      "sha256": "3fbe0d04574894fcb688bc3c7c2fb184a474e2ae761bc8295febfffcbe853e11",
+      "dimensions": {
+        "width": 400,
+        "height": 400
+      }
+    },
+    {
+      "path": "public/media/nailpro/audience-collage.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/foto2.png",
+      "purpose": "audience collage",
+      "contentType": "image/png",
+      "sha256": "08b383fee5cc2db45cc53240af90c9117b409dc05d0ac4745e2aede177e87640",
+      "dimensions": {
+        "width": 600,
+        "height": 587
+      }
+    },
+    {
+      "path": "public/media/nailpro/why-alongamento.jpg",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/porq4.jpg",
+      "purpose": "education background",
+      "contentType": "image/jpeg",
+      "sha256": "b1bb9dc801e0c0e9d9ad04c48576d5fea0b0ab45f7e94c78201aeb188b626b6a",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/why-alongamento-mobile.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/porq-mobile.png",
+      "purpose": "mobile education background",
+      "contentType": "image/png",
+      "sha256": "b169f4ae16d6e29b7065ad3cedb8002757d66ae23adcb795e59f71da27f096b8",
+      "dimensions": {
+        "width": 1080,
+        "height": 2000
+      }
+    },
+    {
+      "path": "public/media/nailpro/testimonials-background.jpg",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/depoimentos4.jpg",
+      "purpose": "testimonials background",
+      "contentType": "image/jpeg",
+      "sha256": "6637e8b24bbed0ccfde49106313f2169d3ab4faa8498dc411996272e6c4ed2df",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/testimonials-background-mobile.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/depoimentos-mobile.png",
+      "purpose": "testimonials mobile background",
+      "contentType": "image/png",
+      "sha256": "5837b9d8aaae1cc35131c8436dffa5e7d7424146844071afdae230ade88e8fbf",
+      "dimensions": {
+        "width": 1080,
+        "height": 2000
+      }
+    },
+    {
+      "path": "public/media/nailpro/guarantee.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/7-dias-1.png",
+      "purpose": "offer guarantee",
+      "contentType": "image/png",
+      "sha256": "9cceb7b011f5fa6d18ae2e495596f94ee255b819fd74b7b8f46afed2ee3d2076",
+      "dimensions": {
+        "width": 450,
+        "height": 450
+      }
+    },
+    {
+      "path": "public/media/nailpro/bonus-mei.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/COMO-ABRIR-UM-MEI.png",
+      "purpose": "bonus mockup",
+      "contentType": "image/png",
+      "sha256": "a8857f3f85e30c9c19defa4bd2253eb83f259a02d9d806b7507cafb8df950985",
+      "dimensions": {
+        "width": 400,
+        "height": 552
+      }
+    },
+    {
+      "path": "public/media/nailpro/bonus-telegram.webp",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/MockupTelegram.png.webp",
+      "purpose": "bonus mockup",
+      "contentType": "image/webp",
+      "sha256": "fe9b43a4872d72ab7c3f6fed2d44ece288cf67d65097231b3a1107a014d31657",
+      "dimensions": {
+        "width": 894,
+        "height": 1233
+      }
+    },
+    {
+      "path": "public/media/nailpro/bonus-suppliers.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/MELHORES-FORNECEDORES.png",
+      "purpose": "bonus mockup",
+      "contentType": "image/png",
+      "sha256": "c7dc7f3aeee8ebfed27dc2b80fc4798450394f0e45c86ffe6e54440e86333a09",
+      "dimensions": {
+        "width": 400,
+        "height": 552
+      }
+    },
+    {
+      "path": "public/media/nailpro/instructor-portrait-manicurist-brush-clean-hand-mask-1200x1678.png",
+      "sourceUrl": "https://images.pexels.com/photos/18090216/pexels-photo-18090216.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "sourcePageUrl": "https://www.pexels.com/photo/blonde-woman-holding-a-paint-18090216/",
+      "creator": "Maria Isadora",
+      "license": "Pexels License",
+      "processing": "manicurist-brush-highres-cutout-reference-mask-1200x1678",
+      "subject": "same model as the instructor background",
+      "purpose": "instructor portrait replacement",
+      "contentType": "image/png",
+      "sha256": "bdeae4ba5c2c01a55bca8ae85e5e6c72c596a7cf3850a57d83a1ce595c5aeda1",
+      "dimensions": {
+        "width": 1200,
+        "height": 1678
+      }
+    },
+    {
+      "path": "public/media/nailpro/instructor-background.jpg",
+      "sourceUrl": "https://images.pexels.com/photos/18090210/pexels-photo-18090210.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "sourcePageUrl": "https://www.pexels.com/photo/portrait-of-a-blonde-woman-wearing-eyeglasses-18090210/",
+      "creator": "Maria Isadora",
+      "license": "Pexels License",
+      "processing": "manicurist-wide-copy-space",
+      "subject": "same model as the instructor portrait",
+      "purpose": "instructor section background replacement",
+      "contentType": "image/jpeg",
+      "sha256": "2000cd004973d7a30f80fbbee838dff3eb69f3acd2e19b25f877918573c613b6",
+      "dimensions": {
+        "width": 1920,
+        "height": 1280
+      }
+    },
+    {
+      "path": "public/media/nailpro/signature-livia-montelume-large.png",
+      "sourceUrl": "local-generated://lp-nailpro/instructor-signature-livia-montelume",
+      "license": "Original project asset generated locally",
+      "processing": "Segoe Script local rasterization, trimmed to a 250x74px signature and composed at 300x100",
+      "purpose": "fictional instructor signature for portfolio demo",
+      "contentType": "image/png",
+      "sha256": "7e1ba5413adc9184439a5eee3a70fe39c420e4550c11e2334b3341e18dbde555",
+      "dimensions": {
+        "width": 300,
+        "height": 100
+      }
+    },
+    {
+      "path": "public/media/nailpro/brand-logo.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/nil-logo-branca.png",
+      "purpose": "footer logo",
+      "contentType": "image/png",
+      "sha256": "e0f4a803173651bb694ff62df6f5dbd8cc36ab9c379a9ecd829ff9ca5b9baf35",
+      "dimensions": {
+        "width": 392,
+        "height": 206
+      }
+    },
+    {
+      "path": "public/media/nailpro/footer-background.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/BANNER-roxo-sem-nada.png",
+      "purpose": "footer background",
+      "contentType": "image/png",
+      "sha256": "6c5e2b0a04c8e15056c547f956fb7df844f0fc2256862a1a21c0567652221475",
+      "dimensions": {
+        "width": 1920,
+        "height": 614
+      }
+    },
+    {
+      "path": "public/media/nailpro/footer-rodape.png",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/2022/07/rodape.png",
+      "purpose": "footer torn background",
+      "contentType": "image/png",
+      "sha256": "5fc842333c912a909ef8e3261c78b6e87c2bedcaa46a7883ecf545f34bea7955",
+      "dimensions": {
+        "width": 1080,
+        "height": 1200
+      }
+    },
+    {
+      "path": "src/styles/fonts/Poppins-Black.woff2",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlbt5z1xlfq.woff2",
+      "purpose": "Poppins 900 latin",
+      "contentType": "font/woff2",
+      "sha256": "17ea10196a490a8d3b8da162c7d4af9c301c5229f70af90dad6fa33eb951d83f",
+      "dimensions": null
+    },
+    {
+      "path": "src/styles/fonts/Poppins-Medium.woff2",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlgt9z1xlfq.woff2",
+      "purpose": "Poppins 500 latin",
+      "contentType": "font/woff2",
+      "sha256": "cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446",
+      "dimensions": null
+    },
+    {
+      "path": "src/styles/fonts/Montserrat-Variable.woff2",
+      "sourceUrl": "https://descomplicandosite.com/nailpro/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2",
+      "purpose": "Montserrat latin",
+      "contentType": "font/woff2",
+      "sha256": "06b16db7a969135d48d38c49183be7fb88d4452e2a3011957c7851941f4e4879",
+      "dimensions": null
+    },
+    {
+      "path": "public/media/nailpro/derived/hero-banner.webp",
+      "sourceUrl": "local-derived://lp-nailpro/hero-banner.png",
+      "derivedFrom": "public/media/nailpro/hero-banner.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 1920px (static export without the Next image optimizer)",
+      "purpose": "hero banner (desktop)",
+      "contentType": "image/webp",
+      "sha256": "4c6ab2386a6a199b73f193a36844fc174b9c11f5b48fd44193cfc840aaa6ef5c",
+      "dimensions": {
+        "width": 1920,
+        "height": 788
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/og-cover.jpg",
+      "sourceUrl": "local-derived://lp-nailpro/hero-banner.png",
+      "derivedFrom": "public/media/nailpro/hero-banner.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick JPEG cover crop q82 at 1200px (static export without the Next image optimizer)",
+      "purpose": "Open Graph / Twitter cover",
+      "contentType": "image/jpeg",
+      "sha256": "f723ec9eba27a262e4ac4c80fc98f3e0d95b76afc384b374fd22cd9b24067678",
+      "dimensions": {
+        "width": 1200,
+        "height": 630
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/hero-banner-mobile.webp",
+      "sourceUrl": "local-derived://lp-nailpro/hero-banner-mobile.png",
+      "derivedFrom": "public/media/nailpro/hero-banner-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q78 at 1080px (static export without the Next image optimizer)",
+      "purpose": "hero banner (mobile)",
+      "contentType": "image/webp",
+      "sha256": "0e56bc6c7b58e79c4d8cda05bf05dec43c38ba22d0f64d13cb21c55eeaa49085",
+      "dimensions": {
+        "width": 1080,
+        "height": 2011
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/hero-banner-compact.webp",
+      "sourceUrl": "local-derived://lp-nailpro/hero-banner-mobile.png",
+      "derivedFrom": "public/media/nailpro/hero-banner-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q78 at 833px (static export without the Next image optimizer)",
+      "purpose": "hero banner (compact phones)",
+      "contentType": "image/webp",
+      "sha256": "97f85a13dfb8f8148cb3e4c8b4fba160155fd8841872c1eeb7c0b7024994ba39",
+      "dimensions": {
+        "width": 833,
+        "height": 1551
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/hero-video-compact.webp",
+      "sourceUrl": "local-derived://lp-nailpro/hero-video.png",
+      "derivedFrom": "public/media/nailpro/hero-video.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 640px (static export without the Next image optimizer)",
+      "purpose": "hero video poster (compact phones)",
+      "contentType": "image/webp",
+      "sha256": "06015002132dc53ed628f78b914075e39a2a7f89045bbe22d8673314a285ba27",
+      "dimensions": {
+        "width": 640,
+        "height": 360
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/hero-video.webp",
+      "sourceUrl": "local-derived://lp-nailpro/hero-video.png",
+      "derivedFrom": "public/media/nailpro/hero-video.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 1024px (static export without the Next image optimizer)",
+      "purpose": "hero video poster (LCP)",
+      "contentType": "image/webp",
+      "sha256": "6201fb62877e056e5daf5a18c1cc77414a81e8857d8379096cc4b995142b1d33",
+      "dimensions": {
+        "width": 1024,
+        "height": 576
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/audience-collage.webp",
+      "sourceUrl": "local-derived://lp-nailpro/audience-collage.png",
+      "derivedFrom": "public/media/nailpro/audience-collage.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 600px (static export without the Next image optimizer)",
+      "purpose": "audience collage",
+      "contentType": "image/webp",
+      "sha256": "31c8e896361f58d2b4a0a616194c85232e35ca130325efe83ef218a61d5440a5",
+      "dimensions": {
+        "width": 600,
+        "height": 587
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/marble.webp",
+      "sourceUrl": "local-derived://lp-nailpro/marble.jpg",
+      "derivedFrom": "public/media/nailpro/marble.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q75 at 1920px (static export without the Next image optimizer)",
+      "purpose": "light marble section background",
+      "contentType": "image/webp",
+      "sha256": "67ebc8e22d65f0b4e567b5cc64c103d0c4b99be3457fdbc86c33b0298e74cffc",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/marble-secondary.webp",
+      "sourceUrl": "local-derived://lp-nailpro/marble-secondary.jpg",
+      "derivedFrom": "public/media/nailpro/marble-secondary.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q75 at 1920px (static export without the Next image optimizer)",
+      "purpose": "FAQ marble background",
+      "contentType": "image/webp",
+      "sha256": "67ebc8e22d65f0b4e567b5cc64c103d0c4b99be3457fdbc86c33b0298e74cffc",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/marble-mobile.webp",
+      "sourceUrl": "local-derived://lp-nailpro/marble-mobile.png",
+      "derivedFrom": "public/media/nailpro/marble-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q75 at 1080px (static export without the Next image optimizer)",
+      "purpose": "mobile marble background",
+      "contentType": "image/webp",
+      "sha256": "f4bf9344fa1b42d1761bca2a47023dd9f86236610b84e01a616ac9c9fe3e6655",
+      "dimensions": {
+        "width": 1080,
+        "height": 2000
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/why-alongamento.webp",
+      "sourceUrl": "local-derived://lp-nailpro/why-alongamento.jpg",
+      "derivedFrom": "public/media/nailpro/why-alongamento.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q78 at 1920px (static export without the Next image optimizer)",
+      "purpose": "education background (desktop)",
+      "contentType": "image/webp",
+      "sha256": "dfb20d45c7c33eec12de35521eeaa8548c394696a3a2fd26bd2519bed9c6a00f",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/why-alongamento-mobile.webp",
+      "sourceUrl": "local-derived://lp-nailpro/why-alongamento-mobile.png",
+      "derivedFrom": "public/media/nailpro/why-alongamento-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q78 at 1080px (static export without the Next image optimizer)",
+      "purpose": "education background (mobile)",
+      "contentType": "image/webp",
+      "sha256": "9b17cbae8711ca946fdae59677040c80c320e7d7fb03920b077c8e94aa8c473f",
+      "dimensions": {
+        "width": 1080,
+        "height": 2000
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/testimonials-background.webp",
+      "sourceUrl": "local-derived://lp-nailpro/testimonials-background.jpg",
+      "derivedFrom": "public/media/nailpro/testimonials-background.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q75 at 1920px (static export without the Next image optimizer)",
+      "purpose": "testimonials background (desktop)",
+      "contentType": "image/webp",
+      "sha256": "ecacfc6c9d6119f94a44c5bdda70a5c8eee8a595d7796c2ca7da43f8fce4eb7c",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/testimonials-background-mobile.webp",
+      "sourceUrl": "local-derived://lp-nailpro/testimonials-background-mobile.png",
+      "derivedFrom": "public/media/nailpro/testimonials-background-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q75 at 1080px (static export without the Next image optimizer)",
+      "purpose": "testimonials background (mobile)",
+      "contentType": "image/webp",
+      "sha256": "827e1656000b7daedcf71cae8e405b86d70ea9debd6fdf0679ff009b9424f1cf",
+      "dimensions": {
+        "width": 1080,
+        "height": 2000
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/instructor-background.webp",
+      "sourceUrl": "local-derived://lp-nailpro/instructor-background.jpg",
+      "derivedFrom": "public/media/nailpro/instructor-background.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q75 at 1920px (static export without the Next image optimizer)",
+      "purpose": "instructor background",
+      "contentType": "image/webp",
+      "sha256": "7721d32cd74ae0524002f75677acfab841b44668b2903be2efb4d16d64c62b90",
+      "dimensions": {
+        "width": 1920,
+        "height": 1280
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/footer-rodape.webp",
+      "sourceUrl": "local-derived://lp-nailpro/footer-rodape.png",
+      "derivedFrom": "public/media/nailpro/footer-rodape.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q78 at 1080px (static export without the Next image optimizer)",
+      "purpose": "footer torn band (mobile)",
+      "contentType": "image/webp",
+      "sha256": "00cff97e6566c573667e923553b1036e33ab4bc172822b0c10a0e706d134f1c4",
+      "dimensions": {
+        "width": 1080,
+        "height": 1200
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/footer-background.webp",
+      "sourceUrl": "local-derived://lp-nailpro/footer-background.png",
+      "derivedFrom": "public/media/nailpro/footer-background.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q78 at 1920px (static export without the Next image optimizer)",
+      "purpose": "footer band (desktop)",
+      "contentType": "image/webp",
+      "sha256": "8170f5207790d0148c519ec8bf77125232fae35669798417d75172092db0316f",
+      "dimensions": {
+        "width": 1920,
+        "height": 614
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/brand-logo.webp",
+      "sourceUrl": "local-derived://lp-nailpro/brand-logo.png",
+      "derivedFrom": "public/media/nailpro/brand-logo.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q85 at 392px (static export without the Next image optimizer)",
+      "purpose": "footer brand logo",
+      "contentType": "image/webp",
+      "sha256": "7c244ac49fd0b5dc26b0c00edbc59e18ffc01012334228bb3d68d8d719da48ce",
+      "dimensions": {
+        "width": 392,
+        "height": 206
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/instructor-portrait.webp",
+      "sourceUrl": "local-derived://lp-nailpro/instructor-portrait-manicurist-brush-clean-hand-mask-1200x1678.png",
+      "derivedFrom": "public/media/nailpro/instructor-portrait-manicurist-brush-clean-hand-mask-1200x1678.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 1200px (static export without the Next image optimizer)",
+      "purpose": "instructor portrait",
+      "contentType": "image/webp",
+      "sha256": "0449e09175f6c6a89cdda64dfc9a64d205b5db787a5192b3aed759a19f5a7da7",
+      "dimensions": {
+        "width": 1200,
+        "height": 1678
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/instructor-background-compact.webp",
+      "sourceUrl": "local-derived://lp-nailpro/instructor-background.jpg",
+      "derivedFrom": "public/media/nailpro/instructor-background.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q78 at 833px (static export without the Next image optimizer)",
+      "purpose": "instructor background (compact phones)",
+      "contentType": "image/webp",
+      "sha256": "f85b146d07390c47b61fce3ed15f68fa5ba90f09072dafe7e2df76d6394c2a81",
+      "dimensions": {
+        "width": 833,
+        "height": 555
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/footer-rodape-compact.webp",
+      "sourceUrl": "local-derived://lp-nailpro/footer-rodape.png",
+      "derivedFrom": "public/media/nailpro/footer-rodape.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 833px (static export without the Next image optimizer)",
+      "purpose": "footer band (compact phones)",
+      "contentType": "image/webp",
+      "sha256": "258ebb71b0cfd7cecb6dc0cd08830a5694149185c1475be134124257ecc1d25d",
+      "dimensions": {
+        "width": 833,
+        "height": 926
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/marble-compact.webp",
+      "sourceUrl": "local-derived://lp-nailpro/marble-mobile.png",
+      "derivedFrom": "public/media/nailpro/marble-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q78 at 833px (static export without the Next image optimizer)",
+      "purpose": "light marble background (compact phones)",
+      "contentType": "image/webp",
+      "sha256": "0734f526dd95e0c55ce1540639e5470ade9e8fa1942cc722b0bb2d4f72a51b06",
+      "dimensions": {
+        "width": 833,
+        "height": 1543
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/testimonials-background-compact.webp",
+      "sourceUrl": "local-derived://lp-nailpro/testimonials-background-mobile.png",
+      "derivedFrom": "public/media/nailpro/testimonials-background-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q78 at 833px (static export without the Next image optimizer)",
+      "purpose": "testimonials background (compact phones)",
+      "contentType": "image/webp",
+      "sha256": "6c00791fa10b1c6bdf2c6b937daa874904de2c925e55f5e535d13a467acfc432",
+      "dimensions": {
+        "width": 833,
+        "height": 1543
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/why-alongamento-compact.webp",
+      "sourceUrl": "local-derived://lp-nailpro/why-alongamento-mobile.png",
+      "derivedFrom": "public/media/nailpro/why-alongamento-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q78 at 833px (static export without the Next image optimizer)",
+      "purpose": "education background (compact phones)",
+      "contentType": "image/webp",
+      "sha256": "d85a56f017c80fd8a9e89d2a277e42ba2ba53f182f03c742ace04e4953e3534d",
+      "dimensions": {
+        "width": 833,
+        "height": 1543
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/brand-icon.png",
+      "sourceUrl": "local-derived://lp-nailpro/brand-logo.png",
+      "derivedFrom": "public/media/nailpro/brand-logo.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick PNG q90 at 64px (static export without the Next image optimizer)",
+      "purpose": "favicon",
+      "contentType": "image/png",
+      "sha256": "6850187017dc0790349105adf705124d27c74e63312568994c9424dded4ef7d5",
+      "dimensions": {
+        "width": 64,
+        "height": 34
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/technique-glitter.webp",
+      "sourceUrl": "local-derived://lp-nailpro/technique-glitter.png",
+      "derivedFrom": "public/media/nailpro/technique-glitter.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 256px (static export without the Next image optimizer)",
+      "purpose": "technique card photo",
+      "contentType": "image/webp",
+      "sha256": "f0acd219860afbfd2c155538d7e42ee7e392bc14a430c3b498275650c3f2cbb4",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/technique-fitilho.webp",
+      "sourceUrl": "local-derived://lp-nailpro/technique-fitilho.png",
+      "derivedFrom": "public/media/nailpro/technique-fitilho.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 256px (static export without the Next image optimizer)",
+      "purpose": "technique card photo",
+      "contentType": "image/webp",
+      "sha256": "c37cd0dbec3dfcdaec2bb476d480fbf789599b13875f0178c8ab1c1b1911af89",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/technique-babyboomer.webp",
+      "sourceUrl": "local-derived://lp-nailpro/technique-babyboomer.png",
+      "derivedFrom": "public/media/nailpro/technique-babyboomer.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 256px (static export without the Next image optimizer)",
+      "purpose": "technique card photo",
+      "contentType": "image/webp",
+      "sha256": "1d819e2be36cbd31048a7d73f45569c5e33e4ce1c70aa6ef02b941f060c6f419",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/technique-crystal.webp",
+      "sourceUrl": "local-derived://lp-nailpro/technique-crystal.png",
+      "derivedFrom": "public/media/nailpro/technique-crystal.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 256px (static export without the Next image optimizer)",
+      "purpose": "technique card photo",
+      "contentType": "image/webp",
+      "sha256": "d2ec9abea94ea63ade83e2531b0be68b49d7658d1dd054e7aacc04dc6a2611f1",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/technique-fibra.webp",
+      "sourceUrl": "local-derived://lp-nailpro/technique-fibra.png",
+      "derivedFrom": "public/media/nailpro/technique-fibra.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 256px (static export without the Next image optimizer)",
+      "purpose": "technique card photo",
+      "contentType": "image/webp",
+      "sha256": "9fda4a9a32a084747fc95a18722176e679449cce5577ea8e059b0e6413e99201",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/technique-tip.webp",
+      "sourceUrl": "local-derived://lp-nailpro/technique-tip.png",
+      "derivedFrom": "public/media/nailpro/technique-tip.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 256px (static export without the Next image optimizer)",
+      "purpose": "technique card photo",
+      "contentType": "image/webp",
+      "sha256": "c65f1285fbab1697729945ebf56c669c18dad6b4ad34912f200ca05c40ab564b",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/technique-moldado.webp",
+      "sourceUrl": "local-derived://lp-nailpro/technique-moldado.png",
+      "derivedFrom": "public/media/nailpro/technique-moldado.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 256px (static export without the Next image optimizer)",
+      "purpose": "technique card photo",
+      "contentType": "image/webp",
+      "sha256": "8781f4952c2c7468a75cfbfb4fdd961800ee5ea7cb71162e3d7bb7a35106606e",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/technique-decoracao.webp",
+      "sourceUrl": "local-derived://lp-nailpro/technique-decoracao.png",
+      "derivedFrom": "public/media/nailpro/technique-decoracao.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libwebp WebP q80 at 256px (static export without the Next image optimizer)",
+      "purpose": "technique card photo",
+      "contentType": "image/webp",
+      "sha256": "15d59a58fee8b45debfdae7d7508394060e0c7cf5e65db5b562e1d7fd3eb8a86",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/hero-banner.avif",
+      "sourceUrl": "local-derived://lp-nailpro/hero-banner.png",
+      "derivedFrom": "public/media/nailpro/hero-banner.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1920px (static export without the Next image optimizer)",
+      "purpose": "hero banner (desktop)",
+      "contentType": "image/avif",
+      "sha256": "ef5a36c95f13e00b229a1c7b0ed0be485a1354ce298c48475721d64a1fd7cdf1",
+      "dimensions": {
+        "width": 1920,
+        "height": 788
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/hero-banner-mobile.avif",
+      "sourceUrl": "local-derived://lp-nailpro/hero-banner-mobile.png",
+      "derivedFrom": "public/media/nailpro/hero-banner-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1080px (static export without the Next image optimizer)",
+      "purpose": "hero banner (mobile)",
+      "contentType": "image/avif",
+      "sha256": "65925065e5424faf3cf1b67080fa44186484b2fdacb060f67139b51309a0157f",
+      "dimensions": {
+        "width": 1080,
+        "height": 2011
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/hero-banner-compact.avif",
+      "sourceUrl": "local-derived://lp-nailpro/hero-banner-mobile.png",
+      "derivedFrom": "public/media/nailpro/hero-banner-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 833px (static export without the Next image optimizer)",
+      "purpose": "hero banner (compact phones)",
+      "contentType": "image/avif",
+      "sha256": "1d89518fd9b3a862e456c7d4d5f4d25c48ea695c86cd54af7d435cfba93cac5f",
+      "dimensions": {
+        "width": 833,
+        "height": 1551
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/hero-video.avif",
+      "sourceUrl": "local-derived://lp-nailpro/hero-video.png",
+      "derivedFrom": "public/media/nailpro/hero-video.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1024px (static export without the Next image optimizer)",
+      "purpose": "hero video poster (LCP)",
+      "contentType": "image/avif",
+      "sha256": "f13a91ac77e27c826c769b92ae46cb819777e96f4abb5f31a00995fe27844828",
+      "dimensions": {
+        "width": 1024,
+        "height": 576
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/hero-video-compact.avif",
+      "sourceUrl": "local-derived://lp-nailpro/hero-video.png",
+      "derivedFrom": "public/media/nailpro/hero-video.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 640px (static export without the Next image optimizer)",
+      "purpose": "hero video poster (compact phones)",
+      "contentType": "image/avif",
+      "sha256": "d6c3cfcdd151cfeeac8ad23c341362ebb55bdae4103f418fbf2d338edc911ecf",
+      "dimensions": {
+        "width": 640,
+        "height": 360
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/marble.avif",
+      "sourceUrl": "local-derived://lp-nailpro/marble.jpg",
+      "derivedFrom": "public/media/nailpro/marble.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1920px (static export without the Next image optimizer)",
+      "purpose": "light marble section background",
+      "contentType": "image/avif",
+      "sha256": "e7ede36b13c3e78a76e24d21ca1875a2cba829e72d1526db1a764b1ce00b17f3",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/marble-secondary.avif",
+      "sourceUrl": "local-derived://lp-nailpro/marble-secondary.jpg",
+      "derivedFrom": "public/media/nailpro/marble-secondary.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1920px (static export without the Next image optimizer)",
+      "purpose": "FAQ marble background",
+      "contentType": "image/avif",
+      "sha256": "e7ede36b13c3e78a76e24d21ca1875a2cba829e72d1526db1a764b1ce00b17f3",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/marble-mobile.avif",
+      "sourceUrl": "local-derived://lp-nailpro/marble-mobile.png",
+      "derivedFrom": "public/media/nailpro/marble-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1080px (static export without the Next image optimizer)",
+      "purpose": "mobile marble background",
+      "contentType": "image/avif",
+      "sha256": "6d541929a7de95de1820bd08861a42bc3d1bf4f1329f697825322ff549297f2b",
+      "dimensions": {
+        "width": 1080,
+        "height": 2000
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/marble-compact.avif",
+      "sourceUrl": "local-derived://lp-nailpro/marble-mobile.png",
+      "derivedFrom": "public/media/nailpro/marble-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 833px (static export without the Next image optimizer)",
+      "purpose": "light marble background (compact phones)",
+      "contentType": "image/avif",
+      "sha256": "0026960a321851764e05e108ab2b70eac439790457fd55e36868bdd3f3c511d2",
+      "dimensions": {
+        "width": 833,
+        "height": 1543
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/why-alongamento.avif",
+      "sourceUrl": "local-derived://lp-nailpro/why-alongamento.jpg",
+      "derivedFrom": "public/media/nailpro/why-alongamento.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1920px (static export without the Next image optimizer)",
+      "purpose": "education background (desktop)",
+      "contentType": "image/avif",
+      "sha256": "6525aefbf130e0c87818ef4fee67df75d02eb7b50425ff58821118499eda1efd",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/why-alongamento-mobile.avif",
+      "sourceUrl": "local-derived://lp-nailpro/why-alongamento-mobile.png",
+      "derivedFrom": "public/media/nailpro/why-alongamento-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1080px (static export without the Next image optimizer)",
+      "purpose": "education background (mobile)",
+      "contentType": "image/avif",
+      "sha256": "d5c934ff2fe40b00033dada7d704e78b462d17775cc319ca60c0b36730452c85",
+      "dimensions": {
+        "width": 1080,
+        "height": 2000
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/why-alongamento-compact.avif",
+      "sourceUrl": "local-derived://lp-nailpro/why-alongamento-mobile.png",
+      "derivedFrom": "public/media/nailpro/why-alongamento-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 833px (static export without the Next image optimizer)",
+      "purpose": "education background (compact phones)",
+      "contentType": "image/avif",
+      "sha256": "6300f49217df7f5bef1b78c31868ef278f9a07adcdf21d8d5b2bd0e77d44cf43",
+      "dimensions": {
+        "width": 833,
+        "height": 1543
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/testimonials-background.avif",
+      "sourceUrl": "local-derived://lp-nailpro/testimonials-background.jpg",
+      "derivedFrom": "public/media/nailpro/testimonials-background.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1920px (static export without the Next image optimizer)",
+      "purpose": "testimonials background (desktop)",
+      "contentType": "image/avif",
+      "sha256": "0d644b75699cce9758318db02df6882547a44cd838b0be575b1def84dc952a22",
+      "dimensions": {
+        "width": 1920,
+        "height": 650
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/testimonials-background-mobile.avif",
+      "sourceUrl": "local-derived://lp-nailpro/testimonials-background-mobile.png",
+      "derivedFrom": "public/media/nailpro/testimonials-background-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1080px (static export without the Next image optimizer)",
+      "purpose": "testimonials background (mobile)",
+      "contentType": "image/avif",
+      "sha256": "bf0c8000070bbbfa82f38fb9f435fd385ee840ade91430230583ecdd34bf48d0",
+      "dimensions": {
+        "width": 1080,
+        "height": 2000
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/testimonials-background-compact.avif",
+      "sourceUrl": "local-derived://lp-nailpro/testimonials-background-mobile.png",
+      "derivedFrom": "public/media/nailpro/testimonials-background-mobile.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 833px (static export without the Next image optimizer)",
+      "purpose": "testimonials background (compact phones)",
+      "contentType": "image/avif",
+      "sha256": "f3ab7fbafe0f50d5f6ca7d4b242f7500926ceb503d7be565271727968eb29d75",
+      "dimensions": {
+        "width": 833,
+        "height": 1543
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/instructor-background.avif",
+      "sourceUrl": "local-derived://lp-nailpro/instructor-background.jpg",
+      "derivedFrom": "public/media/nailpro/instructor-background.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1920px (static export without the Next image optimizer)",
+      "purpose": "instructor background",
+      "contentType": "image/avif",
+      "sha256": "73946822ab2e5ca6fafec7f2756e054065c93c68f67db6a451d0da397f977d88",
+      "dimensions": {
+        "width": 1920,
+        "height": 1280
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/instructor-background-compact.avif",
+      "sourceUrl": "local-derived://lp-nailpro/instructor-background.jpg",
+      "derivedFrom": "public/media/nailpro/instructor-background.jpg",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 833px (static export without the Next image optimizer)",
+      "purpose": "instructor background (compact phones)",
+      "contentType": "image/avif",
+      "sha256": "2c3e55753eb9c6936f5d23e5bc6f7c31cc69a46ced8476e0739e99fd59057237",
+      "dimensions": {
+        "width": 833,
+        "height": 555
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/footer-rodape.avif",
+      "sourceUrl": "local-derived://lp-nailpro/footer-rodape.png",
+      "derivedFrom": "public/media/nailpro/footer-rodape.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1080px (static export without the Next image optimizer)",
+      "purpose": "footer torn band (mobile)",
+      "contentType": "image/avif",
+      "sha256": "f16edecba0b3a23a9c1134bdb7be4fa85c6a44ca8d5928c84d73c7c11d1fd38e",
+      "dimensions": {
+        "width": 1080,
+        "height": 1200
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/footer-rodape-compact.avif",
+      "sourceUrl": "local-derived://lp-nailpro/footer-rodape.png",
+      "derivedFrom": "public/media/nailpro/footer-rodape.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 833px (static export without the Next image optimizer)",
+      "purpose": "footer band (compact phones)",
+      "contentType": "image/avif",
+      "sha256": "9abf0449e9827d162490d4ed794c3b84f868c198757c263b4ebd43bdf5bb6848",
+      "dimensions": {
+        "width": 833,
+        "height": 926
+      }
+    },
+    {
+      "path": "public/media/nailpro/derived/footer-background.avif",
+      "sourceUrl": "local-derived://lp-nailpro/footer-background.png",
+      "derivedFrom": "public/media/nailpro/footer-background.png",
+      "license": "Derived from a tracked project asset; same license as the source",
+      "processing": "ImageMagick libheif AVIF q48 at 1920px (static export without the Next image optimizer)",
+      "purpose": "footer band (desktop)",
+      "contentType": "image/avif",
+      "sha256": "c145a0ac792d32958e9dd56cc532965dc953072b6bed81de8d2eb236c1472f2e",
+      "dimensions": {
+        "width": 1920,
+        "height": 614
+      }
+    }
+  ],
+  "derivativesNote": "Derived AVIF and WebP assets for the static Cloudflare export. AVIF is selected with <picture>/CSS image-set where supported; WebP remains the fallback. Regenerate with `node scripts/build/generate-image-derivatives.mjs`."
+}

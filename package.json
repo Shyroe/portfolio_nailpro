@@ -1,0 +1,63 @@
+{
+  "name": "portfolio_nailpro",
+  "version": "1.0.0",
+  "description": "Desafio técnico frontend de alta fidelidade visual com Next.js (App Router), React 19, TypeScript, Tailwind CSS v4 e Cloudflare Workers.",
+  "license": "MIT",
+  "homepage": "https://nailpro.leonardocamargo.dev.br/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shyroe/portfolio_nailpro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shyroe/portfolio_nailpro/issues"
+  },
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.24.0",
+  "engines": {
+    "node": ">=24.0.0",
+    "pnpm": ">=11.0.0"
+  },
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "node scripts/build/serve-static.mjs --port 3100",
+    "assets:derivatives": "node scripts/build/generate-image-derivatives.mjs",
+    "typecheck": "tsc --noEmit",
+    "lint": "biome lint .",
+    "format": "biome format --write .",
+    "format:check": "biome format .",
+    "check:biome": "biome check .",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:e2e": "pnpm run build && playwright test --workers=1",
+    "audit:a11y": "pnpm run build && playwright test e2e/accessibility.spec.ts --workers=1",
+    "validate": "pnpm run typecheck && pnpm run test:run && pnpm run check:biome && pnpm run build"
+  },
+  "dependencies": {
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "lucide-react": "^1.41.0",
+    "next": "16.3.4",
+    "radix-ui": "^1.6.7",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "tailwind-merge": "3.6.0"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.13.0",
+    "@biomejs/biome": "2.5.12",
+    "@playwright/test": "1.63.0",
+    "@tailwindcss/postcss": "4.3.3",
+    "@testing-library/dom": "10.4.1",
+    "@testing-library/react": "16.3.3",
+    "@types/node": "26.4.1",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.7",
+    "@vitejs/plugin-react": "6.1.1",
+    "jsdom": "30.0.1",
+    "tailwindcss": "4.3.3",
+    "typescript": "7.0.2",
+    "vitest": "5.0.0"
+  }
+}

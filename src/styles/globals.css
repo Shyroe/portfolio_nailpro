@@ -1,0 +1,353 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Poppins CTA Medium";
+  src: url("./fonts/Poppins-Medium.woff2") format("woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-brand: var(--brand);
+  --color-surface: var(--surface);
+  --color-rose-surface: var(--rose-surface);
+  --font-sans: var(--font-montserrat), Arial, Helvetica, sans-serif;
+  --font-heading: var(--font-poppins), Arial, Helvetica, sans-serif;
+  --font-cta: "Poppins CTA Medium", Arial, Helvetica, sans-serif;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #3f004c;
+  --muted: #6f6770;
+  --border: #e5e1e4;
+  --accent: #c50063;
+  --brand: #40004c;
+  --surface: #ffffff;
+  --rose-surface: #fff0f8;
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  overflow-x: clip;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-montserrat), Arial, Helvetica, sans-serif;
+  margin: 0;
+  min-width: 320px;
+  /* Matches the reference's computed text rasterization hints. */
+  -webkit-font-smoothing: antialiased;
+  text-rendering: auto;
+}
+
+@keyframes accordion-down {
+  from {
+    height: 0;
+  }
+
+  to {
+    height: var(--radix-accordion-content-height);
+  }
+}
+
+@keyframes accordion-up {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+
+  to {
+    height: 0;
+  }
+}
+
+@theme {
+  --animate-accordion-down: accordion-down 400ms ease-in-out;
+  --animate-accordion-up: accordion-up 400ms ease-in-out;
+}
+
+.animate-accordion-down {
+  animation: accordion-down 400ms ease-in-out;
+}
+
+.animate-accordion-up {
+  animation: accordion-up 400ms ease-in-out;
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+
+a[href="#oferta"],
+a[href="#oferta"]:hover,
+a[href="#oferta"]:focus-visible,
+a[href="#oferta"]:visited {
+  color: #ffffff;
+}
+
+@keyframes bounceIn {
+  from {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
+
+  20% {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    transform: scale3d(1.1, 1.1, 1.1);
+  }
+
+  40% {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    transform: scale3d(0.9, 0.9, 0.9);
+  }
+
+  60% {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    opacity: 1;
+    transform: scale3d(1.03, 1.03, 1.03);
+  }
+
+  80% {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    transform: scale3d(0.97, 0.97, 0.97);
+  }
+
+  to {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    opacity: 1;
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes zoomIn {
+  from {
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
+
+  50% {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  html * {
+    transition-delay: 0s;
+    transition-duration: 0s;
+  }
+
+  html [data-slot="accordion-content"][data-state="open"],
+  html [data-slot="accordion-content"][data-state="closed"] {
+    animation: none;
+  }
+}
+
+/* AVIF-first decorative media; WebP is retained for unsupported browsers. */
+.media-marble-techniques {
+  background-image: image-set(
+    url("/media/nailpro/derived/marble.avif") type("image/avif"),
+    url("/media/nailpro/derived/marble.webp") type("image/webp")
+  );
+}
+
+.media-marble-standard {
+  background-image: image-set(
+    url("/media/nailpro/derived/marble.avif") type("image/avif"),
+    url("/media/nailpro/derived/marble.webp") type("image/webp")
+  );
+}
+
+.media-marble-faq {
+  background-image: image-set(
+    url("/media/nailpro/derived/marble-secondary.avif") type("image/avif"),
+    url("/media/nailpro/derived/marble-secondary.webp") type("image/webp")
+  );
+}
+
+.media-testimonials-background {
+  background-image: image-set(
+    url("/media/nailpro/derived/testimonials-background.avif")
+      type("image/avif"),
+    url("/media/nailpro/derived/testimonials-background.webp")
+      type("image/webp")
+  );
+}
+
+.media-instructor-background {
+  background-image: image-set(
+    url("/media/nailpro/derived/instructor-background.avif") type("image/avif"),
+    url("/media/nailpro/derived/instructor-background.webp") type("image/webp")
+  );
+}
+
+@media (max-width: 767px) {
+  .media-marble-techniques,
+  .media-marble-standard {
+    background-image: image-set(
+      url("/media/nailpro/derived/marble-mobile.avif") type("image/avif"),
+      url("/media/nailpro/derived/marble-mobile.webp") type("image/webp")
+    );
+  }
+
+  .media-testimonials-background {
+    background-image: image-set(
+      url("/media/nailpro/derived/testimonials-background-mobile.avif")
+        type("image/avif"),
+      url("/media/nailpro/derived/testimonials-background-mobile.webp")
+        type("image/webp")
+    );
+  }
+}
+
+@media (max-width: 560px) {
+  .media-marble-techniques,
+  .media-marble-standard {
+    background-image: image-set(
+      url("/media/nailpro/derived/marble-compact.avif") type("image/avif"),
+      url("/media/nailpro/derived/marble-compact.webp") type("image/webp")
+    );
+  }
+
+  .media-testimonials-background {
+    background-image: image-set(
+      url("/media/nailpro/derived/testimonials-background-compact.avif")
+        type("image/avif"),
+      url("/media/nailpro/derived/testimonials-background-compact.webp")
+        type("image/webp")
+    );
+  }
+
+  .media-instructor-background {
+    background-image: image-set(
+      url("/media/nailpro/derived/instructor-background-compact.avif")
+        type("image/avif"),
+      url("/media/nailpro/derived/instructor-background-compact.webp")
+        type("image/webp")
+    );
+  }
+
+  .media-footer-background {
+    background-image: image-set(
+      url("/media/nailpro/derived/footer-rodape-compact.avif")
+        type("image/avif"),
+      url("/media/nailpro/derived/footer-rodape-compact.webp")
+        type("image/webp")
+    );
+  }
+}
+
+@media (min-width: 561px) {
+  .media-instructor-background {
+    background-image: image-set(
+      url("/media/nailpro/derived/instructor-background.avif")
+        type("image/avif"),
+      url("/media/nailpro/derived/instructor-background.webp")
+        type("image/webp")
+    );
+  }
+
+  .media-footer-background {
+    background-image: image-set(
+      url("/media/nailpro/derived/footer-rodape.avif") type("image/avif"),
+      url("/media/nailpro/derived/footer-rodape.webp") type("image/webp")
+    );
+  }
+}
+
+@media (min-width: 768px) {
+  .media-footer-background {
+    background-image: image-set(
+      url("/media/nailpro/derived/footer-background.avif") type("image/avif"),
+      url("/media/nailpro/derived/footer-background.webp") type("image/webp")
+    );
+  }
+}
+
+/*
+ * Off-screen sections skip style, layout and paint until they approach the
+ * viewport. A real Chrome trace at 10x CPU throttle showed the pre-paint cost
+ * is Layout (~190 ms) plus UpdateLayoutTree (~95 ms) — not JavaScript, whose
+ * evaluation happens after the first paint — and that skipping off-screen
+ * sections cut FCP from 963 ms to ~550 ms. PageSpeed's LCP breakdown attributes
+ * 41% of its 3.0 s LCP to exactly that "element render delay".
+ *
+ * Coverage starts at `#oferta` (the 7th section), the target of every CTA: the
+ * browser resolves an in-page anchor from the layout it already has, so the
+ * sections *above* the target must keep their exact heights or the jump lands
+ * up to 520 px off at intermediate widths. The target itself is safe — only the
+ * sections before it move its position. The instructor section (10th) is also
+ * excluded: layout containment changes the internal spacing of its signature
+ * widget, which the reference lays out at a 20 px gap above the biography.
+ *
+ * The intrinsic sizes are the heights measured at 390 px and 1440 px, and the
+ * `auto` keyword makes Chrome remember the real height after the first render.
+ */
+main > section:nth-child(7),
+main > section:nth-child(8),
+main > section:nth-child(9),
+body > section,
+body > footer {
+  content-visibility: auto;
+}
+
+main > section:nth-child(7) {
+  contain-intrinsic-size: auto 1239px;
+}
+main > section:nth-child(8) {
+  contain-intrinsic-size: auto 1709px;
+}
+main > section:nth-child(9) {
+  contain-intrinsic-size: auto 947px;
+}
+body > section {
+  contain-intrinsic-size: auto 670px;
+}
+body > footer {
+  contain-intrinsic-size: auto 661px;
+}
+
+@media (min-width: 768px) {
+  main > section:nth-child(7) {
+    contain-intrinsic-size: auto 949px;
+  }
+  main > section:nth-child(8) {
+    contain-intrinsic-size: auto 1038px;
+  }
+  main > section:nth-child(9) {
+    contain-intrinsic-size: auto 586px;
+  }
+  body > section {
+    contain-intrinsic-size: auto 732px;
+  }
+  body > footer {
+    contain-intrinsic-size: auto 668px;
+  }
+}

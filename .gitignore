@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+/.pnpm-store/
+
+# Next.js
+/.next/
+/out/
+
+# Cloudflare
+/.wrangler/
+
+# tests
+/playwright-report/
+/test-results/
+/blob-report/
+
+# local environment
+.env*
+!.env.example
+
+# tooling
+*.tsbuildinfo
+.agent-tmp/
