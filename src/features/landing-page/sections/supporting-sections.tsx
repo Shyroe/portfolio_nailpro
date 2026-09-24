@@ -274,7 +274,7 @@ export function InstructorSection() {
     >
       <div
         aria-hidden="true"
-        className="pointer-events-none absolute inset-x-0 bottom-0 top-[76%] z-0 media-instructor-background bg-cover bg-[position:68%_top] bg-no-repeat md:bottom-0 md:left-[57%] md:top-0"
+        className="pointer-events-none absolute inset-x-0 bottom-0 top-[76%] z-0 media-instructor-background bg-cover bg-[position:68%_top] bg-no-repeat opacity-0 md:bottom-0 md:left-[57%] md:top-0 md:opacity-100"
         data-instructor-background
       />
       <div
